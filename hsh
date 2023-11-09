@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#output current date
+curr_date=$(date)
+
+echo "today is $curr_date"
+
